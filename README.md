@@ -20,5 +20,4 @@ I also Love to generate this hover effect.
 | Example Color | ![#000000](https://via.placeholder.com/10/0000?text=+) #000000|
 
 ## Screenshots
-
-![Icons_AdobeExpress](https://github.com/pranjalkuhikar/My_Stuff/assets/99873964/546da054-ac46-4550-b6db-2decd2287d64)
+![Icons](https://github.com/pranjalkuhikar/My_Stuff/assets/99873964/c8e97636-bf04-4191-ab89-c72ee11bd48d)
